@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="password_for_testing">securepass</string>
+    <string name="username_for_testing">hello@passentry.com</string>
+    <string name="scan_an_nfc_tag_to_login">Scan an NFC tag to login</string>
+    <string name="nfc_icon_description">Nfc icon</string>
+    <string name="get_new_taps_string">Get new taps</string>
+</resources>
